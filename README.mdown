@@ -1,12 +1,5 @@
 # Wordpress-to-MarkLogic
 
-## Table of Contents
- - [Overview](#overview)
- - [Features](#features)
- - [Getting Help](#getting-help)
- - [Requirements](#requirement)
- - [Quick Start](#quick-start)
-
 ## Overview
 This repo is a first pass at using Wordpress' RSS feeds to pull content into MarkLogic. 
 
